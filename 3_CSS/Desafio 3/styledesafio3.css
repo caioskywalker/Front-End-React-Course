@@ -1,0 +1,19 @@
+
+#box-model-id{
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+    padding: 6px;
+    border: 4px solid #367;
+    background-color: aqua;
+    border-radius: 6px;
+    box-sizing: border-box;
+    outline: 5px dotted #952 ;
+}
+
+.h2classe{
+    background-color: #312;
+    color: #fff;
+    border-bottom: 6px solid blue;
+}
+
